@@ -3,6 +3,8 @@
 # Dataset 
 download : https://drive.google.com/drive/folders/1zyjYSncGBTl7WWFKGuqhXRckrqS-DBu-?usp=drive_link
 
+after download dataset, create `data` folder and place the dataset into the directory
+
 The dataset contain 2.865 image that separated into 3 subset class  `face`, `eyes`, `mouth ` and for each class we have another 7 different class according to the human facial expression
 * angry
 * fear
