@@ -23,33 +23,33 @@ we use ratio `8:2` for the train data and test data
 
 The structure of the dataset
 
- data/
- ├── train/
- │   ├── face_train/
- │   │   ├── image1.jpg
- │   │   ├── image2.jpg
- │   │   └── ...
- │   ├── eyes_train/
- │   │   ├── image1.jpg
- │   │   ├── image2.jpg
- │   │   └── ...
- │   └── mouth_train/
- │       ├── image1.jpg
- │       ├── image2.jpg
- │       └── ...
- └── test/
-     ├── face_test/
-     │   ├── image1.jpg
-     │   ├── image2.jpg
-     │   └── ...
-     ├── eyes_test/
-     │   ├── image1.jpg
-     │   ├── image2.jpg
-     │   └── ...
-     └── mouth_test/
-         ├── image1.jpg
-         ├── image2.jpg
-         └── ...
+### data/
+### ├── train/
+### │   ├── face_train/
+### │   │   ├── image1.jpg
+### │   │   ├── image2.jpg
+### │   │   └── ...
+### │   ├── eyes_train/
+### │   │   ├── image1.jpg
+### │   │   ├── image2.jpg
+### │   │   └── ...
+### │   └── mouth_train/
+### │       ├── image1.jpg
+### │       ├── image2.jpg
+### │       └── ...
+### └── test/
+###     ├── face_test/
+###     │   ├── image1.jpg
+###     │   ├── image2.jpg
+###     │   └── ...
+###     ├── eyes_test/
+###     │   ├── image1.jpg
+###     │   ├── image2.jpg
+###     │   └── ...
+###     └── mouth_test/
+###         ├── image1.jpg
+###         ├── image2.jpg
+###         └── ...
 
 <img width="174" alt="test" src="https://github.com/ESPB0808/HFT-CNN/assets/115124715/ea8f250b-a6d4-4d9c-b5f0-8ebeef9b39e4">
 <img width="174" alt="train" src="https://github.com/ESPB0808/HFT-CNN/assets/115124715/348641b9-320e-456c-bab0-49f453e099b3">
